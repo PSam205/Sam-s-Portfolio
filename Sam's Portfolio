@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+				<meta charset="UTF-8">
+				<title> Sam's Portfolio</title>
+<style>			
+.header {
+  padding: 2px;
+  text-align: center;
+  background: #000000;
+  color: white;
+  font-size: 8px;
+}
+
+</style>
+</head>
+<body>
+		<div class="header">
+	<h1><center>About Me</center></h1>	
+	</div>
+	<p>Hi, thanks for visiting my page <br>
+My name is Sam. Currently working as a embedded hardware Engineer in Bengaluru, India. <br> I am very proud to tell that my native is Tirunelveli, Tamil Nadu. <br> My dream is to become an entrepreneur. <br> 
+I had seured 5th rank in Tamil Nadu State Level English Proficiency Test.
+</p>		
+<div class="header">
+	<h1> <center> Qualification </center> </h1>
+		</div>
+		<p><dd><dt>HSC in science @ Our Own Modern Matric Higher Secondary School ( 2018 to 2019).</dt></dd><br><dd><dt>Diploma in Electrical and Electronics @  Sankar Polytechnic College ( 2019 to 2021 ). <dd><dt></p>
+		
+<div class="header">
+	<h1> <center> My skills </center> </h1>
+		</div>
+		<UL>
+					<li>OrCAD capture</li>	
+					<li>Bill of Materials</li>	
+					<li>Board Bring-Up</li>	
+					<li>PLC Ladder Logic</li>	
+					<li>Libre Office</li>	
+					<li>Microsoft Power Point</li>	
+					<li>Libre Office</li>	
+					<li>Tera term & MDO </li>	
+		</UL>
+		
+<div class="header">
+	<h1> <center> My Links </center> </h1>
+		</div>
+	<p> 
+				
+									<h3> LinkedIn </h3>
+								
+					<a href ="https://www.linkedin.com/in/sam205"style="text-decoration:none">https://www.linkedin.com/in/sam205</a>
+					
+					<h3> Blogger </h3>
+								
+					<a href ="https://3minutenote.blogspot.com/"style="text-decoration:none">https://3minutenote.blogspot.com/</a>
+					
+					<h3> Instagram </h3>
+								
+					<a href ="https://www.instagram.com/samdurai_205/"style="text-decoration:none">https://www.instagram.com/samdurai_205/</a></a>
+					</p>
+					<div class="header">
+					<h1> <center> Contact Me</center> </h1>
+					</div><br>
+					<center>
+					<a href ="mailto:samd90343@gmail.com/"style="text-decoration:none">samd90343@gmail.com</a>
+					</center>
+					<p>    </p>
+					
+	<div class="header4">			
+					
+		
+</body>
+
+<div class="header">			
+<footer>
+				
+		<center>		<small> © 2022 Sam's Portfolio</small> 	</center>	
+</footer>
+</div>
+</html>
